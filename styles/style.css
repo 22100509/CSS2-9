@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainDiv {
+    padding: 64px 158px;
+    width: 100%;
+}
+
+#parentDiv {
+  width: 100%;
+  background: #E8EEFF;
+  padding: 96px;
+  margin: 0 auto;
+}
+#headerDiv {
+   max-width: 1024px;
+   margin: 0 auto;
+}
+
+#fisrtHead {
+    font-size: 72px;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+    letter-spacing: -1.44px;
+}
+
+#hOneDiv {
+    width: 864px;
+    margin: 0 auto;
+}
+
+span {
+    color: #05F;
+}
+
+a {
+    color: #6941C6;
+}
+
+#thirdHead {
+    width: 768px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+
+#paragraph {
+    text-align: center;
+    color: #535862;
+    font-size: large20px;
+    margin-bottom: 72px;
+}
+
+#mainImgDiv{
+    margin: 0 auto;
+    max-width: 1200px;
+
+}
+
+#mainImg {
+    width: 100%;
+}
+
+#containerMain {
+   margin: 64px 0;
+}
+
+#containerOne {
+   
+    border-radius: 8px;
+    background: #FFF;
+    padding: 16px;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+#textOne, #textTwo, #textThree{
+    width: 417px;
+}
+
+
+#containerTwo, #containerThree{
+    margin-left: 20px;
+    display: inline-block;
+    
+    border-radius: 8px;
+    background: #FFF;
+    padding: 16px;
+    vertical-align: middle;
+}
+
+
+#iconOneDiv, #iconTwoDiv, #iconThreeDiv {
+    width: 43px;
+    margin: 0 auto;
+}
+
+#iconOne, #iconTwo, #iconThree {
+    padding: 12px;
+}
+
+h3 {
+    font-size: 20px;
+    text-align: center;
+    margin: 0 0 8px 0;
+}
+
+#contPOne, #contPTwo, #contPThree{
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+#purpleDiv {
+    margin: 0 194px;
+    border-radius: 24px;
+    background: #53389E;
+    box-shadow: 0px 20px 24px -4px;
+}
+
+#insideDiv {
+    max-width: 736px;
+    padding: 64px 64px 0 64px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+h4 {
+    text-align: left;
+    color: #FFF;
+    font-size: 36px;
+    margin-bottom: 20px;
+} 
+
+#purpleP {
+    color: #E9D7FE;
+    font-size: 20px;
+    margin-bottom: 48px;
+}
+
+#buttonOne {
+    border-radius: var(--radius-md, 8px);
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    padding: 12px 18px;
+    color: #414651;
+    font-size: 16px;
+}
+
+#buttonTwo {
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+    padding: 12px 18px;
+    font-size: 16px;
+    margin-left: 8px;
+    color: #FFF;
+}
+
+#girlImg{
+    vertical-align: middle;
+    max-width: 435px;
+
+    
+}
+
+#imgDiv {
+    vertical-align: middle;
+    display: inline-block;
+}
